@@ -2,7 +2,7 @@
 
 // Define defaults for each variable.
 
-$base-font-family: Montserrat, "Segoe UI" "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$base-font-family: 'Montserrat', "Segoe UI" "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
@@ -14,7 +14,7 @@ $text-color:       #111 !default;
 $background-color: #fca103 !default;
 $brand-color:      #fc3503 !default;
 
-$grey-color:       #828282 !default;
+$grey-color:       #de7e00 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
@@ -49,3 +49,5 @@ $on-laptop:        800px !default;
   "minima/layout",
   "minima/syntax-highlighting"
 ;
+
+
