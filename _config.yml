@@ -24,8 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   This site is powered by jekyll. Created in 2020 by Clive Hawken, based on the theme minima.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: clivehawken
-github_username:  clivehawken
+twitter_username: clivehawk
+instagram_username:  clivehawken
+
 
 # Build settings
 theme: minima

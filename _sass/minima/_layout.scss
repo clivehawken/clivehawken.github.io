@@ -185,7 +185,9 @@
 }
 
 .post-list-heading {
-  @include relative-font-size(1.75);
+  @include relative-font-size(1);
+  text-transform: uppercase;
+  text-align: center;
 }
 
 .post-list {
