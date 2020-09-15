@@ -197,9 +197,6 @@
   > li {
     margin-bottom: $spacing-unit;
 	display: inline-block;
-
-		> img{
-		max-width: calc(#{$content-width} / 2 );}
 	}
 }
 
@@ -212,6 +209,8 @@
   display: block;
   @include relative-font-size(1.5);
 }
+
+.post-image{max-width: calc(#{$content-width} / 2 );
 
 
 

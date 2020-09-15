@@ -16,8 +16,8 @@ layout: default
       <li>
        
         <h3>
-          <a class="p<imost-link" href="{{ post.url | relative_url }}">
-            <img src="{{ post.image }}"  >
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            <img src="{{ post.image }}" class="post-image" >
           </a>
         </h3>
         {%- if site.show_excerpts -%}
