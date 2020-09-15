@@ -196,10 +196,11 @@
 
   > li {
     margin-bottom: $spacing-unit;
-	display:inline-block;
-  }
-	> img{
-		max-width: #{$content-width} / 2;}
+	display: inline-block;
+
+		> img{
+		max-width: calc(#{$content-width} / 2 );}
+	}
 }
 
 .post-meta {
