@@ -2,7 +2,7 @@
 
 // Define defaults for each variable.
 
-$base-font-family: Roboto, "Segoe UI" "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$base-font-family: Helvetica, Roboto, "Segoe UI" "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
@@ -11,7 +11,7 @@ $base-line-height: 1.5 !default;
 $spacing-unit:     30px !default;
 
 $text-color:       #111 !default;
-$background-color: #fca103 !default;
+$background-color: #fff !default;
 $brand-color:      #fc3503 !default;
 
 $grey-color:       #de7e00 !default;
